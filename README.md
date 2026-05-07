@@ -16,13 +16,6 @@ I am passionate about building intelligent systems that combine deep learning, m
 
 My interest in artificial intelligence began with a deeper curiosity about how intelligent systems learn, adapt, and make decisions under real-world constraints.
 
-Questions such as:
-
-- Why do some models generalize effectively while others fail?
-- How can learning systems become more efficient and reliable?
-- How can AI systems reason across multiple modalities?
-- Can machines develop adaptive decision-making strategies similar to humans?
-
 gradually shaped my research interests and long-term academic goals.
 
 Currently, I focus on research-oriented AI projects involving:
